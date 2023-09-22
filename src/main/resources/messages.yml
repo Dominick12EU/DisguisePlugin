@@ -1,0 +1,12 @@
+Messages:
+  general:
+    prefix: "&a&lDisguisePlugin &8>"
+
+  disguise:
+    disable: "%prefix% &cDisguise disabilitata"
+    enable: "%prefix% &aIl tuo nome ora e': &7%fakeName%"
+    enableOnJoin: "%prefix% &aIl tuo nome ora e': &7%fakeName%"
+    list: "%prefix% &7Giocatori in disguise:"
+    list_format: "&a%realName% &7-> &c%fakeName%"
+    skinNotFound: "&cErrore! &7Impossibile trovare la skin: %skinName%"
+    emptyList: "&cErrore! &7La lista dei nomi è vuota"

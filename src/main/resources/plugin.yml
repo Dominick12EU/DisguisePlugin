@@ -1,0 +1,10 @@
+name: DisguisePlugin
+version: '${version}'
+main: it.dominick.dp.DisguisePlugin
+api-version: 1.13
+authors: [Dominick12]
+description: A trial CoralMC Plugin  
+
+commands:
+  disguise:
+    description: Disguise Command

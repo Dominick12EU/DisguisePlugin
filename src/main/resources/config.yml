@@ -1,0 +1,15 @@
+database:
+  host: 127.0.0.1
+  port: 3306
+  name: database_name
+  username: user
+  password: pass
+
+disguise-names:
+  - Feryzz
+  - Cinquanta
+  - Ytnoos
+  - NotAffected
+  - Carpyy
+  - Wector11211
+  - ImBuzz
